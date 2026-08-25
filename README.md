@@ -10,5 +10,6 @@
 ## Key concept : hashset has a constructor with no args, internally called Hashmap 
 ## Hashset used set.add("add something"); and hashMap used map.put("put somthing")
 <img width="663" height="80" alt="image" src="https://github.com/user-attachments/assets/cd4e4a3f-591d-48a6-8018-5029bd5151d1" />
+
 ## but .add() method internally called .put() method to store value.
 
