@@ -1,7 +1,7 @@
 # Intro Collection-HashMap
 
 
-<img width="851" height="302" alt="image" src="https://github.com/user-attachments/assets/2d003613-7a83-4471-aa35-510b92be25de" />
+<img width="851" height="262" alt="image" src="https://github.com/user-attachments/assets/2d003613-7a83-4471-aa35-510b92be25de" />
 <img width="1512" height="390" alt="image" src="https://github.com/user-attachments/assets/f3feeeda-fe24-4346-9af6-009384c53aff" />
 
 <img width="991" height="167" alt="image" src="https://github.com/user-attachments/assets/cbf6666e-c32e-40d8-9dc2-2e6756f5be3b" />
