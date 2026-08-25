@@ -16,3 +16,5 @@
 
 ## but .add() method internally called .put() method to store value.
 
+<img width="837" height="180" alt="image" src="https://github.com/user-attachments/assets/24cd368d-0427-418f-b061-5cf7eb5165ab" />
+
