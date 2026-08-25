@@ -5,6 +5,7 @@
 <img width="1512" height="511" alt="image" src="https://github.com/user-attachments/assets/f3feeeda-fe24-4346-9af6-009384c53aff" />
 
 <img width="991" height="167" alt="image" src="https://github.com/user-attachments/assets/cbf6666e-c32e-40d8-9dc2-2e6756f5be3b" />
+![Uploading image.png…]()
 
 ## hashset used hashmap internally
 ## Key concept : hashset has a constructor with no args, internally called Hashmap 
