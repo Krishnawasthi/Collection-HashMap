@@ -13,7 +13,8 @@
 ## Key concept : hashset has a constructor with no args, internally called Hashmap 
 ## Hashset used set.add("add something"); and hashMap used map.put("put somthing")
 <img width="663" height="80" alt="image" src="https://github.com/user-attachments/assets/cd4e4a3f-591d-48a6-8018-5029bd5151d1" />
-
+<img width="832" height="135" alt="image" src="https://github.com/user-attachments/assets/3343620c-9fc6-4b5c-91ac-03d2558f3a56" />
+## this is used to achieve backword compatability.
 ## but .add() method internally called .put() method to store value.
 
 <img width="837" height="180" alt="image" src="https://github.com/user-attachments/assets/24cd368d-0427-418f-b061-5cf7eb5165ab" />
