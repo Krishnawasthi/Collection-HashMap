@@ -13,9 +13,10 @@ public class HashMapExample {
 		
 		map.put("Karnataka", "bengaluru");
 		map.put("gujrat", "gandhi nagar");
+		map.put("gujrat", "gandhi nagar");
 		map.put("nagaland", "kohima");
 		map.put("panjab", "chandigarh");
-		map.put("haryana", "chandigarh");
+		map.put("haryana", "chandigarh");  
 		
 		System.out.println(map);
 		
