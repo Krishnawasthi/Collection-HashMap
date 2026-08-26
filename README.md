@@ -24,3 +24,4 @@
 <img width="870" height="295" alt="image" src="https://github.com/user-attachments/assets/df27331d-f0d5-4b9f-bd1c-2e03f716eb29" />
 
 ## if key same value will be overridden like gujrat comes to times.
+## In set we have set.contains() method to check the value is present or not, but in map we have map.get() to check the value it is there or not it will always return boolean(true, false);
