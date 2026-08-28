@@ -1,3 +1,5 @@
+# collections is a utility class that  provide some utilities to perform such operation.
+
 ## you can see in the below image...
 <img width="960" height="305" alt="image" src="https://github.com/user-attachments/assets/461a4664-bd77-4dfe-ad7c-f51410d8142c" />
 
@@ -8,3 +10,5 @@
 ## here this is inbuilt sorting fuction.
 ## if you want to make a collection so nobody can modify..  so there is unmodifies collection.
 <img width="1105" height="308" alt="image" src="https://github.com/user-attachments/assets/ad3d73ca-ab7f-4ea1-95a5-a126826cebed" />
+
+### Interview question: what is the difference between collection and collections.
