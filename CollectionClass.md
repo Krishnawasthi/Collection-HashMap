@@ -6,5 +6,5 @@
 <img width="815" height="96" alt="image" src="https://github.com/user-attachments/assets/e4d4cdcf-1e02-4aac-bd9c-3c868330b694" />
 
 ## here this is inbuilt sorting fuction.
-## if you want to make a collection so nobody can modify.. 
+## if you want to make a collection so nobody can modify..  so there is unmodifies collection.
 <img width="1105" height="408" alt="image" src="https://github.com/user-attachments/assets/ad3d73ca-ab7f-4ea1-95a5-a126826cebed" />
