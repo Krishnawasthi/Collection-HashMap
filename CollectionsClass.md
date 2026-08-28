@@ -12,3 +12,5 @@
 <img width="1105" height="308" alt="image" src="https://github.com/user-attachments/assets/ad3d73ca-ab7f-4ea1-95a5-a126826cebed" />
 
 ### Interview question: what is the difference between collection and collections.
+### Answer: collection : collection is root interface that that is part of collection framework.
+###         collections: collections is the utility class provide more than 100 utility methods to the developers.
